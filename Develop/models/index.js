@@ -13,6 +13,7 @@ Index.init
 (
   {
     // define columns
+   
   },
   {
     sequelize,
