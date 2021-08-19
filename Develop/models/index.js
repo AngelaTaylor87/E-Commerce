@@ -8,7 +8,7 @@ const ProductTag = require('./ProductTag');
 // Products belongsTo Category
 class Index extends Model {}
 // Categories have many Products
-Product.init
+Index.init
 // Products belongToMany Tags (through ProductTag)
 (
   {
